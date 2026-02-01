@@ -1,0 +1,8 @@
+{
+  "name": "simple-nft-drop-contract",
+  "version": "1.0.0",
+  "description": "ERC-721 Smart Contract for NFT Drops",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
